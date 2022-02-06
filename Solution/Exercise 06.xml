@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Carnet_Adresses>
+    <Info_Personne ID="PE01">
+        <Nom></Nom>
+        <Prénom></Prénom>
+        <Sexe></Sexe>
+        <Adresse>
+            <Pays></Pays>
+            <Ville Code_Postal="00000"></Ville>
+            <Rue></Rue>
+        </Adresse>
+        <Téléphone Type="Personal"></Téléphone>
+        <Téléphone Type="Professional"></Téléphone>
+        <Email Type="Personal"></Email>
+        <Email Type="Professional"></Email>
+        <URL></URL>
+    </Info_Personne>
+    <Info_Entrepises ID="P01>
+        <Nom></Nom>
+        <Adresse>
+            <Pays></Pays>
+            <Ville Code_Postal="00000"></Ville>
+            <Rue></Rue>
+        </Adresse>
+        <Téléphone Type="Fax/Fix"></Téléphone>
+        <Email Type="Personal"></Email>
+        <A_Contacter>
+            <Nom></Nom>
+            <Prénom></Prénom>
+            <Contact Type="Email/Tél"></Contact>
+        </A_Contacter>
+        <URL></URL>
+        <Salaries>
+            <Info_Personne ID="PE01></Info_Personne>
+        </Salaries>
+    </Info_Entrepises>
+</Carnet_Adresses>

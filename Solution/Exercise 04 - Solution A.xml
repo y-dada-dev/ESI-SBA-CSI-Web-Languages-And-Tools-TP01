@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Etudiants>
+    <Section ID1="A">
+        <Groupe ID2="08">
+            <Etudiant Matricule="E01">
+                <Info_Personnels>
+                    <Nom>Ali</Nom>
+                    <Prénom>Benmohammed</Prénom>
+                    <Lieu_Naissance>Constantine</Lieu_Naissance>
+                    <Date_Naissance>
+                        <Jour>13</Jour>
+                        <Moi>12</Moi>
+                        <Anné>2002</Anné>
+                    </Date_Naissance>
+                    <Adresse>
+                        <Num>7</Num>
+                        <Rue>Abane Ramdan</Rue>
+                        <Ville>Sidi Bel Abbes</Ville>
+                        <Code_Postal>22012</Code_Postal>
+                    </Adresse>
+                </Info_Personnels>
+                <Info_Etudes>
+                    <Trimestre ID3="01">
+                        <Module Nom="Français">12</Module>
+                        <Module Nom="Histoire">14</Module>
+                        <Module Nom="Math">9</Module>
+                        <Module Nom="Physique">6</Module>
+                        <Module Nom="Dessin">14</Module>
+                    </Trimestre>
+                    <Trimestre ID3="02">
+                        <Module Nom="Français">9</Module>
+                        <Module Nom="Histoire">17</Module>
+                        <Module Nom="Math">7</Module>
+                        <Module Nom="Physique">9</Module>
+                        <Module Nom="Dessin">12</Module>
+                    </Trimestre>
+                    <Trimestre ID3="03">
+                        <Module Nom="Français">6</Module>
+                        <Module Nom="Histoire">9</Module>
+                        <Module Nom="Math">4</Module>
+                        <Module Nom="Physique">6</Module>
+                        <Module Nom="Dessin">13</Module>
+                    </Trimestre>
+                </Info_Etudes>
+            </Etudiant>
+        </Groupe>
+    </Section>
+</Etudiants>

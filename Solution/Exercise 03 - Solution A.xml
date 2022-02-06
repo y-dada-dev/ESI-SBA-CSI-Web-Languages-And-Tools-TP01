@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pays>
+    <Pay ID="01">
+        <Nom>Algérie</Nom>
+        <Capital>Alger</Capital>
+        <Habitant En_Année="2019">43 078 714</Habitant>
+    </Pay>
+    <Pay ID="02">
+        <Nom>Tunusie</Nom>
+        <Capital>Tunis</Capital>
+        <Habitant En_Année="2018">11 516 189</Habitant>
+    </Pay>
+    <Pay ID="03">
+        <Nom>Maroc</Nom>
+        <Capital>Rebat</Capital>
+        <Habitant En_Année="2020">36 910 558</Habitant>
+    </Pay>
+</Pays>
+    

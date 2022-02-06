@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!-- Annuaire d'illustration -->
+<annuaire>
+    <personne>
+        <nom>Zerouki</nom>
+        <prenom>Ramzy</prenom>
+        <date format="ISO" format_2="fr-fr">1998-07-23 <telephone/>
+        </date>
+    </personne>
+    <personne>
+        <!-- une 2nd personne -->
+        <nom>Bentaleb</nom>
+        <prenom courant="Vrai">Salima</prenom>
+        <date format="ISO">1969-06-04</date>
+        <telephone>
+            <indicatif_tel> 02 </indicatif_tel>
+            <num_tel> 40 40 36 18 </num_tel>
+        </telephone>
+    </personne>
+    <personne>
+        <nom>Omari</nom>
+        <prenom>Malik</prenom>
+        <telephone/>
+    </personne>
+</annuaire>

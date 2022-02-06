@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bouteilles>
+    <Bouteille Code_Barre="3274080005003" Etat="Sale" Contenance="Eau">
+        <Info_Bouteille>
+            <Nom>Ifri</Nom>
+            <Volume Unité="cl">150</Volume>
+        </Info_Bouteille>
+        <Info_Importation>
+            <Wilaya>Béjaia</Wilaya>
+            <Commune>Ifri</Commune>
+        </Info_Importation>
+        <Info_Label>
+            <PH>7.45</PH>
+            <Ion Type="Positive" Etat="Actif">
+                <Nom>Calcium</Nom>
+                <Volume Unité="mg/l">71</Volume>
+            </Ion>
+            <Ion Type="Positive" Etat="Actif">
+                <Nom>Magnésium</Nom>
+                <Volume Unité="mg/l">5.5</Volume>
+            </Ion>
+            <Ion Type="Négative" Etat="Actif">
+                <Nom>Chlorures</Nom>
+                <Volume Unité="mg/l">20</Volume>
+            </Ion>
+            <Ion Type="Négative" Etat="Actif">
+                <Nom>Nitrates</Nom>
+                <Volume Unité="mg/l">1</Volume>
+            </Ion>
+            <Ion Etat="En_Suspension">
+                <Nom>Fer</Nom>
+            </Ion>
+        </Info_Label>
+    </Bouteille>
+    <Bouteille Code_Barre="3268840001008" Contenance="Eau">
+        <Info_Bouteille>
+            <Nom>Guedila</Nom>
+            <Volume Unité="cl">50</Volume>
+        </Info_Bouteille>
+        <Info_Importation>
+            <Wilaya>Biskra</Wilaya>
+            <Commune>Djemorah</Commune>
+        </Info_Importation>
+        <Info_Label>
+            <PH>7.4</PH>
+            <Ion Type="Positive" Etat="Actif">
+                <Nom>Calcium</Nom>
+                <Volume Unité="mg/l">98</Volume>
+            </Ion>
+            <Ion Type="Positive" Etat="Actif">
+                <Nom>Magnésium</Nom>
+                <Volume Unité="mg/l">4</Volume>
+            </Ion>
+            <Ion Type="Négative" Etat="Actif">
+                <Nom>Chlorures</Nom>
+                <Volume Unité="mg/l">3.6</Volume>
+            </Ion>
+            <Ion Type="Négative" Etat="Actif">
+                <Nom>Nitrates</Nom>
+                <Volume Unité="mg/l">2</Volume>
+            </Ion>
+        </Info_Label>
+    </Bouteille>
+    <Bouteille Code_Barre="3057640117008" Contenance="Eau">
+        <Info_Bouteille>
+            <Nom>Saida</Nom>
+        </Info_Bouteille>
+        <Info_Importation>
+            <Wilaya>Saida</Wilaya>
+            <Commune>Ain-El-Hdjar</Commune>
+        </Info_Importation>
+        <Info_Label>
+            <PH>7</PH>
+            <Ion Type="Positive" Etat="Actif">
+                <Nom>Calcium</Nom>
+                <Volume Unité="mg/l">11.5</Volume>
+            </Ion>
+            <Ion Type="Positive" Etat="Actif">
+                <Nom>Magnésium</Nom>
+                <Volume Unité="mg/l">8</Volume>
+            </Ion>
+            <Ion Type="Négative" Etat="Actif">
+                <Nom>Chlorures</Nom>
+                <Volume Unité="mg/l">13.5</Volume>
+            </Ion>
+            <Ion Type="Négative" Etat="Actif">
+                <Nom>Nitrates</Nom>
+                <Volume Unité="mg/l">6.3</Volume>
+            </Ion>
+            <Ion>
+                <Nom>Silice</Nom>
+                <Volume>Particules</Volume>
+            </Ion>
+        </Info_Label>
+    </Bouteille>
+</Bouteilles>
